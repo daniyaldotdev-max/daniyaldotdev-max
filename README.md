@@ -1,16 +1,15 @@
-## Hi there 👋
+# Full-Stack WordPress Developer
 
-<!--
-**daniyaldotdev-max/daniyaldotdev-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specialized in building scalable WordPress systems, custom plugins, WooCommerce solutions, and API-driven architectures.
 
-Here are some ideas to get you started:
+## What I do
+- Custom WordPress Plugin Development
+- WooCommerce Advanced Customization
+- REST API Integrations
+- Headless WordPress Frontend Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+PHP • WordPress • WooCommerce • JavaScript • React • REST API • MySQL
+
+## Focus
+Building production-ready, scalable WordPress applications with clean architecture and performance-first design.
