@@ -2,7 +2,6 @@
 
 Senior WordPress Engineer specializing in scalable plugin architecture, WooCommerce systems, REST API integrations, and production-grade WordPress development.
 
----
 
 ## 🚀 About Me
 
@@ -11,7 +10,6 @@ Senior WordPress Engineer specializing in scalable plugin architecture, WooComme
 - Experience working with agency-level and production-grade projects  
 - Strong understanding of architecture, performance, and clean code practices  
 
----
 
 ## 🧩 What I’ve Built
 
@@ -22,7 +20,6 @@ Senior WordPress Engineer specializing in scalable plugin architecture, WooComme
  🔗 REST API integrations with third-party services and custom systems  
  🎨 Full theme customization and custom WordPress builds from scratch  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +29,6 @@ Senior WordPress Engineer specializing in scalable plugin architecture, WooComme
 **Database:** MySQL optimization & query handling  
 **Tools:** Git, Composer, WP-CLI, Cursor AI workflows  
 
----
 
 ## ⚙️ Core Expertise
 
@@ -43,7 +39,6 @@ Senior WordPress Engineer specializing in scalable plugin architecture, WooComme
 - Scalable WordPress architecture (modular & reusable systems)  
 - Gutenberg block development  
 
----
 
 ## 🧠 Development Approach
 
@@ -53,7 +48,6 @@ Senior WordPress Engineer specializing in scalable plugin architecture, WooComme
 - Production-ready deployment thinking  
 - AI-assisted development workflow (Cursor AI, agentic tools)  
 
----
 
 ## 📌 What I Focus On
 
@@ -62,7 +56,6 @@ Senior WordPress Engineer specializing in scalable plugin architecture, WooComme
 - Business-driven WooCommerce solutions  
 - API-first and automation-focused architecture  
 
----
 
 ## 🎯 Goal
 
