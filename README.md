@@ -15,12 +15,12 @@ Senior WordPress Engineer specializing in scalable plugin architecture, WooComme
 
 ## 🧩 What I’ve Built
 
-- 🧱 30+ custom WordPress plugins (production + client projects)  
-- 🌐 250+ WordPress websites across multiple industries  
-- 🛒 WooCommerce custom solutions (dynamic logic, checkout flows, custom workflows)  
-- 🔌 Chrome extensions integrated with web workflows and automation  
-- 🔗 REST API integrations with third-party services and custom systems  
-- 🎨 Full theme customization and custom WordPress builds from scratch  
+ 🧱 30+ custom WordPress plugins (production + client projects)  
+ 🌐 250+ WordPress websites across multiple industries  
+ 🛒 WooCommerce custom solutions (dynamic logic, checkout flows, custom workflows)  
+ 🔌 Chrome extensions integrated with web workflows and automation  
+ 🔗 REST API integrations with third-party services and custom systems  
+ 🎨 Full theme customization and custom WordPress builds from scratch  
 
 ---
 
