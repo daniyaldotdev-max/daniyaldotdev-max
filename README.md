@@ -7,9 +7,7 @@ Senior WordPress Engineer with **4+ years of experience** building scalable Word
 ## 🏆 Achievements
 
 🚀 Built **30+ custom WordPress plugins**
-
 🌐 Delivered **250+ WordPress websites**
-
 🛒 Developed advanced WooCommerce stores, workflows, and checkout systems
 
 🔗 Integrated dozens of third-party APIs, CRMs, and SaaS platforms
@@ -68,11 +66,9 @@ Senior WordPress Engineer with **4+ years of experience** building scalable Word
 
 ---
 
-## 🌐 Connect
+## contact me
 
-## Contact Me
-
-[![Website](https://img.shields.io/badge/Website-daniyalhassan.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://daniyalhassan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniyaldotdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyaldotdev)
-[![Instagram](https://img.shields.io/badge/Instagram-daniyaldotdev-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniyaldotdev)
-[![Email](https://img.shields.io/badge/Email-daniyaldotdev%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyaldotdev@gmail.com)
+[website](https://img.shields.io/badge/website-daniyalhassan.com-0a66c2?style=flat&logo=google-chrome&logoColor=white)
+[linkedin](https://img.shields.io/badge/linkedin-daniyaldotdev-0a66c2?style=flat&logo=linkedin&logoColor=white)
+[instagram](https://img.shields.io/badge/instagram-daniyaldotdev-0a66c2?style=flat&logo=instagram&logoColor=white)
+[email](https://img.shields.io/badge/email-daniyaldotdev%40gmail.com-0a66c2?style=flat&logo=gmail&logoColor=white)
