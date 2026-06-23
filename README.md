@@ -1,44 +1,76 @@
 # 👨‍💻 Full-Stack WordPress Developer
 
-Senior WordPress Engineer with **4+ years of experience** building scalable WordPress solutions, custom plugins, WooCommerce systems, API integrations, and business automation workflows. Focused on clean architecture, performance, and production-grade development.
+Senior WordPress Engineer with **4+ years of experience** building scalable WordPress systems, custom plugins, WooCommerce solutions, API integrations, performance-focused websites, and business automation workflows.
 
 ---
 
 ## 🏆 Achievements
 
-- 🧱 Built **30+ custom WordPress plugins**
-- 🌐 Delivered **250+ WordPress websites**
-- 🛒 Developed advanced WooCommerce stores and custom checkout systems
-- 🔗 Integrated dozens of third-party APIs and SaaS platforms
-- ⚡ Optimized large-scale WordPress websites for performance and scalability
-- 🎨 Built custom themes and Gutenberg solutions from scratch
-- 🤖 Developed automation systems using AI and workflow tools
-- 📈 Worked with agencies, startups, and established businesses across multiple industries
+🚀 Built **30+ custom WordPress plugins**
+
+🌐 Delivered **250+ WordPress websites**
+
+🛒 Developed advanced WooCommerce stores, workflows, and checkout systems
+
+🔗 Integrated dozens of third-party APIs, CRMs, and SaaS platforms
+
+⚡ Optimized large-scale WordPress websites for speed and scalability
+
+🎨 Built custom themes and Gutenberg solutions from scratch
+
+🤖 Created AI-powered automation and publishing systems
+
+🏢 Worked with agencies, startups, and established businesses worldwide
 
 ---
 
 ## 💼 Experience
 
-- Custom WordPress Plugin Development
-- Large-Scale WooCommerce Development & Custom Business Logic
-- REST API Development & Third-Party Integrations
-- Payment Gateway Integrations (Stripe, PayPal, etc.)
-- Custom WordPress Themes & Gutenberg Block Development
-- Database Optimization & Complex Query Handling
-- Performance Optimization, Caching & Core Web Vitals Improvements
-- WordPress Architecture & Modular System Design
-- Chrome Extension Development & Web Integrations
-- AI-Powered Automation & Workflow Systems
-- Membership, Subscription & Booking Platforms
-- Agency-Level WordPress Maintenance & Long-Term Product Development
+🔧 Custom WordPress Plugin Development
+
+🛒 WooCommerce Development & Custom Business Logic
+
+🔗 REST API Development & Third-Party Integrations
+
+💳 Payment Gateway Integrations (Stripe, PayPal, Authorize.net)
+
+🎨 Custom WordPress Themes & Gutenberg Block Development
+
+⚡ Performance Optimization, Caching & Core Web Vitals
+
+🗄️ Database Optimization & Complex Query Handling
+
+🏗️ Scalable WordPress Architecture & Modular Systems
+
+🔒 Website Security Hardening & Malware Removal
+
+🚑 Hacked Website Recovery & Emergency Fixes
+
+🤖 AI Automation & Workflow Development
+
+🧩 Chrome Extension Development & Web Integrations
+
+📦 Membership, Subscription & Booking Platforms
+
+☁️ Website Migration, Server Configuration & Deployment
 
 ### Recent Projects
 
-- 🛒 Built custom WooCommerce workflows for high-volume ecommerce stores
-- 🔌 Developed production-grade WordPress plugins used across multiple client projects
-- 🤖 Created AI-powered content automation and publishing systems
-- 🔗 Integrated CRMs, payment gateways, and external SaaS platforms through custom APIs
-- ⚡ Improved performance of large WordPress websites through advanced optimization techniques
+🛒 Custom WooCommerce workflow systems for high-volume ecommerce stores
+
+🔌 Production-grade WordPress plugins used across multiple client projects
+
+🤖 AI-powered content generation and publishing automation systems
+
+🔗 CRM, ERP, payment gateway, and SaaS integrations through custom APIs
+
+⚡ Performance optimization projects improving speed and Core Web Vitals
+
+🔒 Malware cleanup and security hardening for compromised WordPress websites
+
+🚑 Full website recovery after hacks, crashes, and critical server failures
+
+🏗️ Large-scale WordPress systems designed for long-term scalability
 
 ---
 
@@ -54,9 +86,12 @@ Senior WordPress Engineer with **4+ years of experience** building scalable Word
 
 ---
 
-## 📫 Connect
+## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/Website-Visit-success?style=flat-square)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:you@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://instagram.com/yourprofile)
+[![Website](https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+[![Instagram](https://img.shields.io/badge/Instagram-22C55E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+
+[![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
