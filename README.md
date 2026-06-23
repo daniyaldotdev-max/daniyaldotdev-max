@@ -66,9 +66,9 @@ Senior WordPress Engineer with **4+ years of experience** building scalable Word
 
 ---
 
-## contact me
+## Contact Me
 
-website - https://img.shields.io/badge/website-0A66C2
-linkedin - https://img.shields.io/badge/linkedin-0A66C2
-instagram - https://img.shields.io/badge/instagram-0A66C2
-email - https://img.shields.io/badge/email-0A66C2
+[![website](https://img.shields.io/badge/website-daniyalhassan.com-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://daniyalhassan.com)
+[![linkedin](https://img.shields.io/badge/linkedin-daniyaldotdev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyaldotdev)
+[![instagram](https://img.shields.io/badge/instagram-daniyaldotdev-0A66C2?style=flat&logo=instagram&logoColor=white)](https://instagram.com/daniyaldotdev)
+[![email](https://img.shields.io/badge/email-daniyaldotdev%40gmail.com-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:daniyaldotdev@gmail.com)
