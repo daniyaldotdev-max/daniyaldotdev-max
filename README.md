@@ -7,7 +7,9 @@ Senior WordPress Engineer with **4+ years of experience** building scalable Word
 ## 🏆 Achievements
 
 🚀 Built **30+ custom WordPress plugins**
+
 🌐 Delivered **250+ WordPress websites**
+
 🛒 Developed advanced WooCommerce stores, workflows, and checkout systems
 
 🔗 Integrated dozens of third-party APIs, CRMs, and SaaS platforms
