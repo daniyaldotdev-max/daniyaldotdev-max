@@ -88,10 +88,7 @@ Senior WordPress Engineer with **4+ years of experience** building scalable Word
 
 ## 🌐 Connect
 
-[![Website](https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-[![Instagram](https://img.shields.io/badge/Instagram-22C55E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-
-[![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge)](https://instagram.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge)](mailto:you@example.com)
