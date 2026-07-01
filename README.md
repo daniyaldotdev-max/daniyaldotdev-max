@@ -62,7 +62,7 @@ Senior WordPress Engineer with **3 years of experience** building scalable WordP
 |----------|----------|----------|
 | PHP | JavaScript | Git |
 | WordPress Core | jQuery | GitHub |
-| WooCommerce | React | Composer |
+| WooCommerce | Elementor | Composer |
 | MySQL | Gutenberg | WP-CLI |
 | REST APIs | HTML/CSS | Cursor AI |
 
