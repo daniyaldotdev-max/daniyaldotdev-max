@@ -1,6 +1,6 @@
 # 👨‍💻 Full-Stack WordPress Developer
 
-Senior WordPress Engineer with **4+ years of experience** building scalable WordPress systems, custom plugins, WooCommerce solutions, API integrations, performance-focused websites, and business automation workflows.
+Senior WordPress Engineer with **3 years of experience** building scalable WordPress systems, custom plugins, WooCommerce solutions, API integrations, performance-focused websites, and business automation workflows.
 
 ---
 
